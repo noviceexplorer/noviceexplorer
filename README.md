@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @noviceexplorer
+#- 👋 Hi, I’m @noviceexplorer#
 - 👀 I’m interested in learning the basics of Github to improve my communication with developers.
 - 🌱 I’m currently learning Python
 - 📫 krish@packagecloud.io
